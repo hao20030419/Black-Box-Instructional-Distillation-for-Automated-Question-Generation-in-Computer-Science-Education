@@ -1,0 +1,10 @@
+transformers>=4.30.0
+datasets
+accelerate
+peft
+bitsandbytes
+safetensors
+sentencepiece
+torch
+
+# Optional: add GPU specific packages if needed
